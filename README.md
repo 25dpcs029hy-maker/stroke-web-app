@@ -1,1 +1,0 @@
-# stroke-web-app
